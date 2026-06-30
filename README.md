@@ -1,2 +1,2 @@
 # Devops_projecr_2
-Kubernetes_Scanning_Tools
+K8s_Cluster_setup
